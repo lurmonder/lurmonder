@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**lurmonder/lurmonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some things about me to get you starte:
+Here are some things about me:
 
 - 🔭 I’m currently working on Lytharim
 - 🌱 I’m currently learning Java
@@ -12,4 +9,3 @@ Here are some things about me to get you starte:
 - 📫 How to reach me: i mainly use discord for communication, my user: Lurmond
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: im acually egyptian
--->
