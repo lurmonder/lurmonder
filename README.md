@@ -1,25 +1,47 @@
-<h1 align="center">Hi 👋, I'm Lurmond</h1>
-<h3 align="center">Just a random developer</h3>
+<h1 align="center">Hii 👋 I'm Lurmond</h1>
+<h3 align="center">A Random Developer</h3>
 
-- 🔭 I’m currently working on **Lytharim**
-
-- 🌱 I’m currently learning **Backend development**
-
-- 👨‍💻 All of my projects are available at [WIP](WIP)
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **lurmonder@gmail.com or on discord (Lurmond)**
-
-- ⚡ Fun fact **fact :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/lurmond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lurmond" height="30" width="40" /></a>
-<a href="https://discord.gg/mdP2AgZcxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mdP2AgZcxz" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lurmonder&show_icons=true&locale=en" alt="lurmonder" /></p>
+## 🧠 About Me
+
+- 🔭 Currently building **Lytharim**
+- 🌱 Learning **Backend Development**
+- 💡 Focused on **Minecraft plugins, AI tools, and web apps**
+- 💬 Ask me about **Lua, Python, Web Dev**
+- 📫 Reach me at: **lurmonder@gmail.com** or **Discord: Lurmond**
+- ⚡ Fun fact: *fact :)*
+
+---
+
+## ⚙️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lurmonder&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lurmonder&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/c/lurmond">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+  <a href="https://discord.gg/mdP2AgZcxz">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
