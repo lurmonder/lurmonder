@@ -21,16 +21,7 @@
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lurmonder&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lurmonder&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,github,vscode" />
 </p>
 
 ---
@@ -38,10 +29,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/c/lurmond">
+  <a href="https://www.youtube.com/lurmond">
     <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
   <a href="https://discord.gg/mdP2AgZcxz">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+
+<details>
+  <summary><b>Click to view stats</b></summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=lurmonder&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lurmonder&theme=tokyonight" />
+  </p>
+
+</details>
