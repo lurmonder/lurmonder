@@ -29,7 +29,7 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/lurmond">
+  <a href="https://www.youtube.com/@Lurmond">
     <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
   <a href="https://discord.gg/mdP2AgZcxz">
