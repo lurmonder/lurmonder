@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🔭 Currently building **Lytharim**
 - 🌱 Learning **Backend Development**
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,html,css,github,vscode" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.youtube.com/lurmond">
